@@ -100,18 +100,6 @@
         "slider_img": ""
       },
       {
-        "url": "https://cutt.ly/ueG01aSK",
-        "desc": [
-          "YATIRIMSIZ DENEME BONUSU"
-        ],
-        "site": "starzbet",
-        "sort": null,
-        "color": "#ff6d00",
-        "miktar": "₺750",
-        "promo_code_yok": "%100 HOŞGELDİN BONUSU | SINIRSIZ KAZANÇ",
-        "slider_img": ""
-      },
-      {
         "url": "https://cutt.ly/YeGMl3w8",
         "desc": [
           "500 ₺ DENEME BONUSU"
@@ -280,24 +268,20 @@
             "sort": "7"
           },
           {
-            "site": "starzbet",
+            "site": "betpublic",
             "sort": "8"
           },
           {
-            "site": "betpublic",
+            "site": "otobet",
             "sort": "9"
           },
           {
-            "site": "otobet",
+            "site": "supertotobet",
             "sort": "10"
           },
           {
-            "site": "supertotobet",
-            "sort": "11"
-          },
-          {
             "site": "bycasino",
-            "sort": "12"
+            "sort": "11"
           }
         ]
       },
