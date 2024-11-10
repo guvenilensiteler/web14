@@ -618,13 +618,24 @@
         }
         */
         // random algroritması
-        fetch('https://api2.sitelergiris.com/', {
+        //fetch('https://api2.sitelergiris.com/', {
+        fetch('/karistir.html', {
             method: 'GET',
         })
         .then(response => {
             return response.text();
         })
         .then(result => {
+            function shuffleString(input) {
+                let array = input.split('');
+                for (let i = array.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [array[i], array[j]] = [array[j], array[i]];
+                }
+                return array.join('');
+            }
+            result = shuffleString("abcdefghijkl");
+
             if (result != '') { //sunucudan veri dönmezse
                 firmalar_element = document.querySelectorAll('.row.diamond:not(.clover) .col');
                 if (result.length <= firmalar_element.length) { // sunucudan daha uzun bir şey (hata gibi bir şey) dönerse diye ekstra kontrol
