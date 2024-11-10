@@ -108,7 +108,7 @@
         "sort": null,
         "color": "#ff6d00",
         "miktar": "₺750",
-        "promo_code": null,
+        "promo_code_yok": "%100 HOŞGELDİN BONUSU | SINIRSIZ KAZANÇ",
         "slider_img": ""
       },
       {
@@ -120,7 +120,7 @@
         "sort": null,
         "color": "#99284e",
         "miktar": "₺500",
-        "promo_code": null,
+        "promo_code_yok": "VİP CLASS AYRICALIKLARI",
         "slider_img": ""
       },
       {
@@ -132,7 +132,7 @@
         "sort": null,
         "color": "#fba200",
         "miktar": "₺800",
-        "promo_code": null,
+        "promo_code_yok": "LİMİTSİZ YATIRIM SINIRSIZ ÇEKİM İMKANI",
         "slider_img": ""
       },
       {
@@ -144,7 +144,7 @@
         "sort": null,
         "color": "#ff0037",
         "miktar": "₺400",
-        "promo_code": null,
+        "promo_code_yok": "GÜNLÜK 5.000.000 ÇEKİM İMKANI",
         "slider_img": ""
       },
       {
@@ -156,7 +156,7 @@
         "sort": null,
         "color": "#ff6600",
         "miktar": "₺750",
-        "promo_code": null,
+        "promo_code_yok": "1 YATIRIMDA VIP OL SINIRSIZ ÇEKİM İMKANI",
         "slider_img": ""
       }
     ],
